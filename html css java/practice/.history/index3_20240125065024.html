@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events in js</title>
+    <style>
+        body
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(225, 209, 209);
+            background-color: black;
+            text-align: center;
+        }
+        .container{
+            border: 2px solid white;
+            background-color: rgb(52, 48, 48);
+            padding: 10px;
+            margin: 13px;
+        }
+        .box{
+            border: 2px solid white;
+            background-color: rgb(103, 24, 24);
+            padding: 10px;
+            margin: 13px;
+        }
+        .child{
+            border: 2px solid white;
+            background-color: rgb(104, 92, 92);
+            padding: 10px;
+            margin: 13px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <section class="child">
+                Heyy I am a box
+            </section>
+        </div>
+    </div>
+    <button id="btn">Change</button>
+    <script >
+        document.querySelector(".child").addEventListener("click", (e)=>{
+            e.stopPropagation()
+            alert("Child")
+        })
+        document.querySelector(".box").addEventListener("click", (e)=>{
+            e.stopPropagation()
+            alert("box")
+        })
+        document.querySelector(".container").addEventListener("click", (e)=>{
+            e.stopPropagation()
+            alert("container")
+        })
+
+        function getr
+
+
+
+
+        
+    </script>
+</body>
+</html>

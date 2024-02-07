@@ -1,0 +1,561 @@
+.stories-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f0f0f0;
+    width: 656px;
+    height: 101px;
+}
+.profile-circle-icon {
+    width: 72px;
+    position: relative;
+    height: 72px;
+}
+.name {
+    position: relative;
+    letter-spacing: 0.01em;
+}
+.story {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story1 {
+    position: absolute;
+    top: 0px;
+    left: 83px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story2 {
+    position: absolute;
+    top: 0px;
+    left: 166px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story3 {
+    position: absolute;
+    top: 0px;
+    left: 249px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story4 {
+    position: absolute;
+    top: 0px;
+    left: 332px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story5 {
+    position: absolute;
+    top: 1px;
+    left: 415px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story6 {
+    position: absolute;
+    top: 3px;
+    left: 498px;
+    width: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.story-parent {
+    position: absolute;
+    top: 6px;
+    left: 92px;
+    width: 571px;
+    height: 91px;
+    overflow-x: auto;
+}
+.name7 {
+    position: absolute;
+    top: 76px;
+    left: calc(50% - 22.27px);
+    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    width: 44.54px;
+}
+.profile-circle-icon7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 72.89px;
+    height: 72px;
+}
+.front {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 322.5px);
+    width: 72.89px;
+    height: 87px;
+    font-size: 9px;
+    color: #bbb;
+}
+.stories1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 663px;
+    height: 101px;
+    overflow: hidden;
+}
+.stories {
+    position: absolute;
+    top: 87px;
+    left: 0px;
+    width: 359px;
+    height: 101px;
+    overflow-x: auto;
+}
+.top-menu-icon {
+    position: absolute;
+    top: 44px;
+    left: 0px;
+    width: 360px;
+    height: 43px;
+}
+.icon {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    width: 360px;
+    height: 347px;
+    object-fit: cover;
+}
+.group-child {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1px solid #ffdd55;
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+}
+.icon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 19px;
+    width: 38px;
+    height: 38px;
+    object-fit: cover;
+}
+.zabz-11- {
+    position: absolute;
+    top: 12px;
+    left: 54px;
+    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    width: 49px;
+    height: 14px;
+}
+.phdots-three-vertical-bold-icon {
+    position: absolute;
+    top: 8px;
+    left: 304px;
+    width: 23px;
+    height: 23px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 9px;
+    left: 18px;
+    width: 327px;
+    height: 38px;
+}
+.iconheart {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.love-comment {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 114.41px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+.save-icon {
+    position: absolute;
+    top: 0px;
+    left: 313.58px;
+    width: 25.43px;
+    height: 24px;
+    overflow: hidden;
+}
+.slider-child {
+    width: 6px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #5792e7;
+    height: 6px;
+}
+.frame-child {
+    width: 4px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #c4c4c4;
+    height: 4px;
+}
+.ellipse-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-child1 {
+    width: 3px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #c4c4c4;
+    height: 3px;
+}
+.frame-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.slider {
+    position: absolute;
+    top: 8px;
+    left: 145.13px;
+    width: 48.73px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3px;
+}
+.actions {
+    position: absolute;
+    top: 412px;
+    left: 11px;
+    width: 339px;
+    height: 24px;
+}
+.add-comment {
+    position: absolute;
+    top: 516px;
+    left: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.likes {
+    position: absolute;
+    top: 445px;
+    left: 13px;
+    font-size: 13.71px;
+    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    width: 65.14px;
+    height: 16px;
+}
+.zabz-11-1 {
+    font-weight: 600;
+}
+.zabz-11-shining-time-container {
+    position: absolute;
+    top: 470px;
+    left: 13px;
+    font-size: 14px;
+    line-height: 18px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 165px;
+    height: 18px;
+}
+.view-all-256 {
+    position: absolute;
+    top: 497px;
+    left: 13px;
+    font-size: 9.88px;
+    line-height: 12.7px;
+    font-weight: 500;
+    color: #959595;
+}
+.st-post {
+    position: absolute;
+    top: 187px;
+    left: 0px;
+    background-color: #f0f0f0;
+    border-top: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+    box-sizing: border-box;
+    width: 360px;
+    height: 537px;
+}
+.st-post1 {
+    position: absolute;
+    top: 1219px;
+    left: calc(50% - 180px);
+    background-color: #f0f0f0;
+    border-top: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+    box-sizing: border-box;
+    width: 360px;
+    height: 537px;
+}
+.sikhpage {
+    position: absolute;
+    top: 12px;
+    left: 54px;
+    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    width: 53px;
+    height: 14px;
+}
+.group-div {
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    width: 327px;
+    height: 38px;
+}
+.actions2 {
+    position: absolute;
+    top: 361.07px;
+    left: 10px;
+    width: 339px;
+    height: 24px;
+}
+.likes2 {
+    position: absolute;
+    top: 397px;
+    left: 11px;
+    font-size: 13.71px;
+    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    width: 65.14px;
+    height: 16px;
+}
+.sikhpage-waheguru-ji-container {
+    position: absolute;
+    top: 422px;
+    left: 11px;
+    font-size: 14px;
+    line-height: 18px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 165px;
+    height: 18px;
+}
+.view-all-190 {
+    position: absolute;
+    top: 449px;
+    left: 11px;
+    font-size: 9.88px;
+    line-height: 12.7px;
+    font-weight: 500;
+    color: #959595;
+}
+.image-1-icon {
+    position: absolute;
+    top: 65px;
+    left: calc(50% - 181px);
+    width: 361.47px;
+    height: 284.07px;
+    object-fit: cover;
+}
+.hours-ago {
+    position: absolute;
+    top: 469px;
+    left: 11px;
+    font-size: 10px;
+    letter-spacing: 0.01em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.nd-post {
+    position: absolute;
+    top: 724px;
+    left: calc(50% - 180px);
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #d8d8d8;
+    box-sizing: border-box;
+    width: 360px;
+    height: 496px;
+    overflow: hidden;
+}
+.iconamoonsearch-light {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+.home-bar-child {
+    width: 23px;
+    position: relative;
+    border-radius: 50%;
+    height: 23px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.home-bar {
+    position: absolute;
+    bottom: 38px;
+    left: 0px;
+    background-color: #f0f0f0;
+    border-bottom: 0.5px solid #dadada;
+    box-sizing: border-box;
+    width: 360px;
+    height: 36px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 24px;
+    gap: 48px;
+}
+.battery-icon {
+    position: absolute;
+    height: 57.41%;
+    width: 7.26%;
+    top: 26.85%;
+    right: 0%;
+    bottom: 15.74%;
+    left: 92.74%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.wifi-icon {
+    position: absolute;
+    height: 61.11%;
+    width: 4.67%;
+    top: 24.06%;
+    right: 8.94%;
+    bottom: 14.83%;
+    left: 86.39%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.cellular-connection-icon {
+    position: absolute;
+    height: 59.26%;
+    width: 5.18%;
+    top: 25.93%;
+    right: 15.13%;
+    bottom: 14.81%;
+    left: 79.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div {
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+}
+.bars-status-bar-iphone-x {
+    position: absolute;
+    height: 100%;
+    width: 8.84%;
+    top: 0%;
+    right: 91.16%;
+    bottom: 0%;
+    left: 0%;
+}
+.bars-status-bar-iphone-l {
+    position: absolute;
+    height: 40.91%;
+    width: 87.47%;
+    top: 29.55%;
+    right: 4.53%;
+    bottom: 29.55%;
+    left: 8%;
+}
+.light-1 {
+    position: absolute;
+    top: 0px;
+    left: -10px;
+    background-color: #f0f0f0;
+    width: 379px;
+    height: 44px;
+    overflow: hidden;
+    font-size: 15px;
+}
+.nav-bar-icon {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 360px;
+    height: 38px;
+}
+.main-feed {
+    width: 100%;
+    position: relative;
+    background-color: #f0f0f0;
+    height: 1833px;
+    text-align: left;
+    font-size: 12px;
+    color: #000;
+    font-family: Roboto;
+}
+
